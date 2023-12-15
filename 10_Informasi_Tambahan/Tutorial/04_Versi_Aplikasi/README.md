@@ -9,7 +9,7 @@ Cara membuat versi pada project intouch, ini berguna untuk mengetahui perbedaan 
 
 ### Buka WindowMaker
 
-1. Buat atau siapkan text
+1. Buat atau siapkan text dan diisi nilai '#####'
 2. Double Click atau Klik Kanan → Animation Links.. pada text tersebut
 3. Pilih bagian Value Display → Analog 
 4. Isi nilai Expression dengan  `$ApplicationVersion`
