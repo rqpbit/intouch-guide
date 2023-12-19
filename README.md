@@ -31,9 +31,8 @@ Semua _script_ yang ada di repositori ini dapat diakses dengan cepat melalui lin
 |   07    | Scripting with OLE Objects       | Memahami pembuatan dan penggunaan OLE Object                                          | -                                    |
 |   08    | Scripting ActiveX Controls       | Memahami penggunaan ActiveX Controls                                                  | -                                    |
 |   09    | Troubleshooting QuickScripts     | Memahami log viewer dan logmessage                                                    | -                                    |
-|   10    | Informasi Tambahan               | Membahas catatan penting, tips-trik dan tutorial yang pernah dibuat                   | -                                    |
+|   10    | Tutorial & Informasi Lainnya     | Membahas tutorial dan catatan penting, dan tips-trik                                  | [Lihat](10_Informasi_Tambahan)       |
 
 <br />
 
-Jika kamu masih mengalami kesulitan dalam mempelajari hal diatas, mari diskus pada telegram saya [@rqpbit](https://tl.me/rqpbit) 💬
 > Beberapa sumber diambil dari [InTouch HMI Scripting and Logic Guide](https://cdn.logic-control.com/media/ITScriptsAndLogic.pdf) 🤩
