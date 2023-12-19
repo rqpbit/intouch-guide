@@ -22,8 +22,8 @@ Semua _script_ yang ada di repositori ini dapat diakses dengan cepat melalui lin
 
 | Bab     |              Topik               |                                  Target Pembelajaran                                  |            Materi Rujukan            |
 | :-----: | :------------------------------: | :-----------------------------------------------------------------------------------: | :----------------------------------: |
-|   01    | Pengenalan                       | Memahami apa itu inTouch Script, installasi dan lisensi                               | -                                    |
-|   02    | Basic Operation                  | Memahami cara membuka dan memulai menulis script                                      | -                                    |
+|   01    | Pengenalan                       | Memahami apa itu inTouch Script, installasi dan lisensi                               | [Lihat](01_Pengenalan) 							|
+|   02    | Basic Operation                  | Memahami cara membuka dan memulai menulis script                                      | [Lihat](02_Basic_Operation) 					|
 |   03    | Script Triggers                  | Memahami cara menulis atau penggunaan script dari masing-masing tipe scripts          | -                                    |
 |   04    | The Script Language              | Memahami penulisan aturan dasar script, perulangan dan pengelolaan variable           | -                                    |
 |   05    | Custom Script Functions          | Memahami penggunaan QuickFunctions                                                    | -                                    |
